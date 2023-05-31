@@ -112,8 +112,6 @@ body
         background-color: #5c5b9c;
         font-size: 16px;
         cursor: url("cursor.png");
-        animation: bounceINup: 4s;
-        animation: bounceIUp: 4s;
 }
     .pulha8:hover {
         background-color: #836cc3;
